@@ -96,8 +96,8 @@ La empresa Tajinaste S.A. se dedica a la venta de plantas, productos de jardiner
 
 ### Empleado - Pedido (Es Responsable)
 
-- **Cardinalidad**: 1:1  
-- **Descripción**: Cada pedido tiene un único empleado responsable, quien gestiona la compra para el cliente.
+- **Cardinalidad**: 1:N  
+- **Descripción**: Cada pedido tiene un único empleado responsable, quien gestiona la compra para el cliente. Un empleado puede ser responsable de varios pedidos.
 
 ## 4. ***Restricciones Semánticas***
 
