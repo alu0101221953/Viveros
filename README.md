@@ -38,7 +38,7 @@ La empresa Tajinaste S.A. se dedica a la venta de plantas, productos de jardiner
    - **Correo**: Correo electrónico del cliente.  
    - **Bonificación**: Acumulación de puntos o bonificaciones.  
    - **Volumen_Compras**: Volumen total de compras acumuladas.  
-   - **Tajinaste_Plus**: Indicador de si el cliente pertenece al programa de fidelización.
+   - **Tajinaste_Plus**: Indicador de si el cliente pertenece al programa de fidelización. Es de tipo ***bool***.
 
 ### 5. **Empleado**  
    Representa a los trabajadores de la empresa. Los empleados tienen los siguientes atributos:  
